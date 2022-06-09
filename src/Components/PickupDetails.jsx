@@ -27,18 +27,20 @@ const PickupDetails = () => {
                     <ListGroup.Item>- 60 Deposits</ListGroup.Item>
                     <ListGroup.Item>- 10kg of clothes</ListGroup.Item>
                   </ListGroup>
-                  <div class="d-flex p-2 ">
+                  <div className="d-flex p-2 ">
                     <p className="mb-0">Phone:</p>
 
-                    <div class="ps-2">
-                      <span class="text-sm opacity-8">(+40) 772 100 200</span>
+                    <div className="ps-2">
+                      <span className="text-sm opacity-8">
+                        (+40) 772 100 200
+                      </span>
                     </div>
                   </div>
 
-                  <div class="d-flex p-2 ">
+                  <div className="d-flex p-2 ">
                     <p className="mb-0">Address:</p>
-                    <div class="ps-2">
-                      <span class="text-sm opacity-8">
+                    <div className="ps-2">
+                      <span className="text-sm opacity-8">
                         730 Dyonisie Wolf Bucharest, RO 010458
                       </span>
                     </div>

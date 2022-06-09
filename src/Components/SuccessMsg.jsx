@@ -1,7 +1,7 @@
 import styles from "./SuccessMsg.module.css"
 const SuccessMsg = () => {
   return (
-    <div class={`${styles.card} text-center`}>
+    <div className={`${styles.card} text-center`}>
       <div
         style={{
           borderRadius: "200px",
@@ -12,7 +12,7 @@ const SuccessMsg = () => {
           position: "relative",
         }}
       >
-        <i class={styles.checkmark}>✓</i>
+        <i className={styles.checkmark}>✓</i>
       </div>
       <h1 className={styles.h1}>Success</h1>
       <p>

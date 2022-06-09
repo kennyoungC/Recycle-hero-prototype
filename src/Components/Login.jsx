@@ -52,7 +52,7 @@ const Login = () => {
                           id="form2Example17"
                           className="form-control form-control-lg"
                         />
-                        <label className="form-label" for="form2Example17">
+                        <label className="form-label" htmlFor="form2Example17">
                           Username
                         </label>
                       </div>
@@ -63,7 +63,7 @@ const Login = () => {
                           id="form2Example27"
                           className="form-control form-control-lg"
                         />
-                        <label className="form-label" for="form2Example27">
+                        <label className="form-label" htmlFor="form2Example27">
                           Password
                         </label>
                       </div>

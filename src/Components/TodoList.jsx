@@ -23,7 +23,6 @@ const TodoList = () => {
                       type="checkbox"
                       value=""
                       aria-label="..."
-                      checked
                     />
                     Water
                   </li>
