@@ -34,14 +34,7 @@ const PickupDetails = () => {
                       <span class="text-sm opacity-8">(+40) 772 100 200</span>
                     </div>
                   </div>
-                  <div class="d-flex p-2 ">
-                    <p className="mb-0">Email:</p>
-                    <div class="ps-3">
-                      <span class="text-sm opacity-8">
-                        hello@creative-tim.com
-                      </span>
-                    </div>
-                  </div>
+
                   <div class="d-flex p-2 ">
                     <p className="mb-0">Address:</p>
                     <div class="ps-2">

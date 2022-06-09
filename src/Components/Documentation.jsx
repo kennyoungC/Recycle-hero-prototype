@@ -103,7 +103,11 @@ const Documentation = () => {
                       <FormGroup>
                         <Form.Label>Deposit</Form.Label>
                         <InputGroup>
-                          <FormControl aria-label="Dollar amount (with dot and two decimal places)" />
+                          <FormControl
+                            type="number"
+                            min="0"
+                            aria-label="Dollar amount (with dot and two decimal places)"
+                          />
                           <InputGroup.Text>Kg(s)</InputGroup.Text>
                         </InputGroup>
                       </FormGroup>
